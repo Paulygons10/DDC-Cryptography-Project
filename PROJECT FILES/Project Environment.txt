@@ -1,0 +1,6 @@
+Project Environment
+
+*ASUS X442UQ
+*Windows 10
+*OpenSSL Master from https://slproweb.com/products/Win32OpenSSL.html
+*Using Win64 OpenSSL Command Prompt
